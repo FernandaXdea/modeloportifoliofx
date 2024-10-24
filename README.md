@@ -20,7 +20,5 @@ O site está hospedado no GitHub Pages e pode ser acessado pelo link abaixo:
 
 ### Preview do Site
 
-```markdown
-![Preview do site](./caminho_para_o_print.png)
-```
+<img src="https://imgur.com/a/JldqAv1"/>
 
